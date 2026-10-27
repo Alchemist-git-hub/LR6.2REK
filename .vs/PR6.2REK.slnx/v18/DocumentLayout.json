@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lpnu\\AP\\LR\\PR6.2REK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83986CA0-F30B-4A9E-B3C2-0C50727FD8B2}|PR6.2REK\\PR6.2REK.vcxproj|C:\\lpnu\\AP\\LR\\PR6.2REK\\PR6.2REK\\pr6.2r.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83986CA0-F30B-4A9E-B3C2-0C50727FD8B2}|PR6.2REK\\PR6.2REK.vcxproj|solutionrelative:PR6.2REK\\pr6.2r.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A988AE5A-04F2-0A31-9E37-A7D0768086FB}|testPR6.2REK\\testPR6.2REK.vcxproj|C:\\lpnu\\AP\\LR\\PR6.2REK\\testPR6.2REK\\testPR6.2REK.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A988AE5A-04F2-0A31-9E37-A7D0768086FB}|testPR6.2REK\\testPR6.2REK.vcxproj|solutionrelative:testPR6.2REK\\testPR6.2REK.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "testPR6.2REK.cpp",
+              "DocumentMoniker": "C:\\lpnu\\AP\\LR\\PR6.2REK\\testPR6.2REK\\testPR6.2REK.cpp",
+              "RelativeDocumentMoniker": "testPR6.2REK\\testPR6.2REK.cpp",
+              "ToolTip": "C:\\lpnu\\AP\\LR\\PR6.2REK\\testPR6.2REK\\testPR6.2REK.cpp",
+              "RelativeToolTip": "testPR6.2REK\\testPR6.2REK.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-27T23:19:21.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pr6.2r.cpp",
+              "DocumentMoniker": "C:\\lpnu\\AP\\LR\\PR6.2REK\\PR6.2REK\\pr6.2r.cpp",
+              "RelativeDocumentMoniker": "PR6.2REK\\pr6.2r.cpp",
+              "ToolTip": "C:\\lpnu\\AP\\LR\\PR6.2REK\\PR6.2REK\\pr6.2r.cpp",
+              "RelativeToolTip": "PR6.2REK\\pr6.2r.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-27T23:18:41.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
